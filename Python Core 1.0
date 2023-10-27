@@ -1,2 +1,7 @@
 f = round(4.555555555555555, 2)
 print(f)
+
+a = 3
+b = 8
+c = round((a + b)/2)
+print(c)
